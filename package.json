@@ -1,0 +1,19 @@
+{
+  "name": "4_1_e_lorido_web",
+  "version": "1.0.0",
+  "description": "This is an example of a full stack web application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Loridoerano/4_1_e_lorido_web.git"
+  },
+  "author": "Erano Lorido",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Loridoerano/4_1_e_lorido_web/issues"
+  },
+  "homepage": "https://github.com/Loridoerano/4_1_e_lorido_web#readme"
+}
